@@ -28,7 +28,7 @@ O arquivo `exemplos.ipynb` serve como um material de referência para a criaçã
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens e Web:** Python, Numpy, Pandas, Jupiter Notebook.
+* **Linguagens e Web:** Python, Numpy, Pandas e Jupiter Notebook.
 * **Data Intelligence:** Power BI para visualização de dados.
 * **Inteligência Artificial:** Machine Learning e bibliotecas de manipulação de dados.
 
