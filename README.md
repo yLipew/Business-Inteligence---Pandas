@@ -28,9 +28,7 @@ O arquivo `exemplos.ipynb` serve como um material de referência para a criaçã
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Além das bibliotecas demonstradas neste projeto, meu foco de estudo e atuação envolve:
-
-* **Linguagens e Web:** Python, HTML, CSS.
+* **Linguagens e Web:** Python, Numpy, Pandas, Jupiter Notebook.
 * **Data Intelligence:** Power BI para visualização de dados.
 * **Inteligência Artificial:** Machine Learning e bibliotecas de manipulação de dados.
 
